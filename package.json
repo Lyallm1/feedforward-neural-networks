@@ -3,10 +3,7 @@
   "version": "5.0.0",
   "description": "feedforward neural networks library",
   "main": "FeedForwardNeuralNetwork.js",
-  "files": [
-    "src",
-    "FeedForwardNeuralNetwork.js"
-  ],
+  "files": ["src", "FeedForwardNeuralNetwork.js"],
   "scripts": {
     "compile": "rollup -c",
     "eslint": "eslint src",
@@ -20,13 +17,7 @@
     "type": "git",
     "url": "https://github.com/mljs/feedforward-neural-networks.git"
   },
-  "keywords": [
-    "neural",
-    "networks",
-    "feedforward",
-    "machine",
-    "learning"
-  ],
+  "keywords": ["neural", "networks", "feedforward", "machine", "learning"],
   "author": "Jefferson Hernández",
   "license": "MIT",
   "bugs": {
